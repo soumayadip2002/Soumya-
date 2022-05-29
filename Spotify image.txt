@@ -1,0 +1,13 @@
+Background-imag - "https://images.pexels.com/photos/1876279/pexels-photo-1876279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+Spotify logo = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/571e5943-4616-4654-bf99-10b3c98f8686/d98301o-426f05ca-8fe5-4636-9009-db9dd1fca1f3.png"
+
+gif-link = "https://i.gifer.com/5uwq.gif"
+
+Cover-image = "https://4.bp.blogspot.com/-JQ52DjZu0M4/XKB-1jXjl9I/AAAAAAAAAwM/v852WPEmtD4oosdlV_TPmjLhamoAnImAQCLcBGAs/s1600/Cover.jpg"
+
+Razz cover image = "https://c.saavncdn.com/311/Raaz-Reboot-2-Hindi-2016-500x500.jpg"
+
+Agar tum satyh ho  = "https://c.saavncdn.com/994/Tamasha-Hindi-2015-500x500.jpg"
+
+
